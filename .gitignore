@@ -13,6 +13,10 @@ desktop.ini
 *.swp
 ~$*
 
+# Temporary exam PDF downloads and page renders
+/tmp/pdfs/*.pdf
+/tmp/pdfs/*-page-*.png
+
 # Script/runtime caches
 __pycache__/
 *.py[cod]
